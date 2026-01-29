@@ -246,7 +246,7 @@ export default function MemberDetailScreen() {
                 </View>
               )}
 
-{/* check Ci CD pipeline  */}
+
               {formData.anniversary && (
                 <View style={styles.detailCard}>
                   <Text style={styles.label}>Anniversary</Text>
